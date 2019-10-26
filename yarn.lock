@@ -2899,6 +2899,14 @@ dotenv@^8.2.0:
   resolved "https://registry.npm.taobao.org/dotenv/download/dotenv-8.2.0.tgz#97e619259ada750eea3e4ea3e26bceea5424b16a"
   integrity sha1-l+YZJZradQ7qPk6j4mvO6lQksWo=
 
+draggabilly@^2.2.0:
+  version "2.2.0"
+  resolved "https://registry.npm.taobao.org/draggabilly/download/draggabilly-2.2.0.tgz#9bac6849816c5cd4e4a59707f63f14ea7d863baf"
+  integrity sha1-m6xoSYFsXNTkpZcH9j8U6n2GO68=
+  dependencies:
+    get-size "^2.0.2"
+    unidragger "^2.3.0"
+
 duplexer@^0.1.1:
   version "0.1.1"
   resolved "https://registry.npm.taobao.org/duplexer/download/duplexer-0.1.1.tgz#ace6ff808c1ce66b57d1ebf97977acb02334cfc1"
@@ -3183,6 +3191,11 @@ etag@~1.8.1:
   version "1.8.1"
   resolved "https://registry.npm.taobao.org/etag/download/etag-1.8.1.tgz#41ae2eeb65efa62268aebfea83ac7d79299b0887"
   integrity sha1-Qa4u62XvpiJorr/qg6x9eSmbCIc=
+
+ev-emitter@^1.0.1:
+  version "1.1.1"
+  resolved "https://registry.npm.taobao.org/ev-emitter/download/ev-emitter-1.1.1.tgz#8f18b0ce5c76a5d18017f71c0a795c65b9138f2a"
+  integrity sha1-jxiwzlx2pdGAF/ccCnlcZbkTjyo=
 
 event-pubsub@4.3.0:
   version "4.3.0"
@@ -3683,6 +3696,11 @@ get-caller-file@^2.0.1:
   version "2.0.5"
   resolved "https://registry.npm.taobao.org/get-caller-file/download/get-caller-file-2.0.5.tgz#4f94412a82db32f36e3b0b9741f8a97feb031f7e"
   integrity sha1-T5RBKoLbMvNuOwuXQfipf+sDH34=
+
+get-size@^2.0.2:
+  version "2.0.3"
+  resolved "https://registry.npm.taobao.org/get-size/download/get-size-2.0.3.tgz#54a1d0256b20ea7ac646516756202769941ad2ef"
+  integrity sha1-VKHQJWsg6nrGRlFnViAnaZQa0u8=
 
 get-stream@^3.0.0:
   version "3.0.0"
@@ -7785,6 +7803,13 @@ unicode-property-aliases-ecmascript@^1.0.4:
   resolved "https://registry.npm.taobao.org/unicode-property-aliases-ecmascript/download/unicode-property-aliases-ecmascript-1.0.5.tgz#a9cc6cc7ce63a0a3023fc99e341b94431d405a57"
   integrity sha1-qcxsx85joKMCP8meNBuUQx1AWlc=
 
+unidragger@^2.3.0:
+  version "2.3.0"
+  resolved "https://registry.npm.taobao.org/unidragger/download/unidragger-2.3.0.tgz#ab9d9fd62106f3252d88fae5f3a99575e6d31d02"
+  integrity sha1-q52f1iEG8yUtiPrl86mVdebTHQI=
+  dependencies:
+    unipointer "^2.3.0"
+
 union-value@^1.0.0:
   version "1.0.1"
   resolved "https://registry.npm.taobao.org/union-value/download/union-value-1.0.1.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Funion-value%2Fdownload%2Funion-value-1.0.1.tgz#0b6fe7b835aecda61c6ea4d4f02c14221e109847"
@@ -7794,6 +7819,13 @@ union-value@^1.0.0:
     get-value "^2.0.6"
     is-extendable "^0.1.1"
     set-value "^2.0.1"
+
+unipointer@^2.3.0:
+  version "2.3.0"
+  resolved "https://registry.npm.taobao.org/unipointer/download/unipointer-2.3.0.tgz#ba0dc462ce31c2a88e80810e19c3bae0ce47ed9f"
+  integrity sha1-ug3EYs4xwqiOgIEOGcO64M5H7Z8=
+  dependencies:
+    ev-emitter "^1.0.1"
 
 uniq@^1.0.1:
   version "1.0.1"
