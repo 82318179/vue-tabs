@@ -1,5 +1,7 @@
 # mytabs
 
+### 初学 vue 实现了 tab 的新增 删除 选中 ；拖拽效果暂未实现
+
 ![效果图](./src/assets/222.jpg)
 
 ## Project setup
